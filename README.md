@@ -30,5 +30,42 @@
 
 -Operadores de comparación
 
+-Indexación de estructuras de datos
+
+-Listas
+
+-Tuplas
+
+-Diccionarios
+
+-Conjuntos(Sets)
+
+-Estructuras de control
+
+-Condicionales
+
+-Bucles
+
+-Control de bucles
+
+-Funciones
+
+-Definición de funciones
+
+-Valores de retorno
+
+-Alcance de las variables
+
+-Funciones anónimas
+
+-Modulos e importaciones
+
+-Importación de módulos
+
+-Módulos estándar
+
+-Creación de módulos propios
+
+-Uso de name == 'main'
 
 
