@@ -1,5 +1,7 @@
 # Tutorial_python
- 
+
+ -Elaborado por: Laura Ortiz Franco
+
 -Tutorial de Python
 
 -Contenido
@@ -67,5 +69,11 @@
 -Creación de módulos propios
 
 -Uso de name == 'main'
+
+-Introducción a Python
+
+-¿Qué es Python?
+
+-Python es un lenguaje de programación que se caracteriza por ser fácil de leer y escribir ya que tiene una sintaxis simple y clara. Python tiene aplicaciones en áreas como desarrollo web, ciencia de datos y análisis, IA y aprendizaje automático, automatización de tareas y desarrollo de software.
 
 
